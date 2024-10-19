@@ -1,4 +1,6 @@
 # Blinkit Sales Dashboard 
+
+## Overview
 This repository contains a <b> MS Excel Dashboard </b> for Blinkit, showcasing the sales performance of its grocery outlets across various dimensions like outlet size, location, product type, and customer preferences. The dashboard is built to provide clear insights for decision-makers to analyze sales trends and optimize strategies for better business outcomes.
 
 ## File Structure
