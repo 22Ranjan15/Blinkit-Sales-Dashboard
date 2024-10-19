@@ -22,7 +22,7 @@ This repository contains a <b> MS Excel Dashboard </b> for Blinkit, showcasing t
 ## <b> Tools & Technologies Used: </b> MS Excel.
 
 ## <b> How to Use: </b>
-1. Clone this repository: `git clone <repository-url>`
+1. Clone this repository: `git clone <https://github.com/22Ranjan15/Blinkit-Sales-Dashboard.git>`
 2. Open the Excel file (BlinkIT Grocery Data.xlsx).
 3. Explore the dashboard by applying different filters (Outlet Size, Location, Item Type) to gain insights.
 
